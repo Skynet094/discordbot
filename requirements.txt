@@ -1,0 +1,6 @@
+requests 
+google_images_download
+asyncio 
+pip
+discord.py
+bs4
